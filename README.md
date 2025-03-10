@@ -2,7 +2,7 @@
 <h1 align="center">scroll down for more information 🠗</h1>
 <h2 align="center">How to use:</h2>
 <h3 align="center">if the hacks dont work update them and if it IS updated and wont work make, idk why it is like that</a></h2>
-<h3 align="center"><a href="https://discord.gg/ugkV8ERCQ2">Their Official Discord/a></h2>
+<h3 align="center"><a href="https://discord.gg/ugkV8ERCQ2">Their Official Discord</h2>
  
 
 <h2 align="center">how to use the userscript:</h2>
