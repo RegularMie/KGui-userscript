@@ -6,5 +6,5 @@
  
 
 <h2 align="center">how to use the userscript:</h2>
-<h3 align="center">1. download extension named <a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" font-family="Source Code Pro">tampermonkey for the userscript manager
-<h3 align="center">2. click <a href="https://raw.githubusercontent.com/Blooket-Council/Blooket-Cheats/refs/heads/main/cheats/KGui.js" font-family="Source Code Pro">this link and it should prompt the userscript installation manager to install the userscript
+<h3 align="center">1. download extension named <a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" font-family="Source Code Pro">tampermonkey </a> for the userscript manager
+<h3 align="center">2. click <a href="https://github.com/RegularMie/KGui-userscript/blob/main/Blooket%20Cheats%20KGui-15.user.js" font-family="Source Code Pro">this link </a> and it should prompt the userscript installation manager to install the userscript
